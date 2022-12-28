@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7-1024x300.gif)]
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7-1024x300.gif)
 <h1 align="center">Hi 👋, I'm Swati Sucharita Mohanty</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="CODING" />
