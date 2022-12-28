@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **REDUX**
 
-- 👨‍💻 All of my projects are available at [https://swati082001.github.io/](https://swati082001.github.io/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://swati082001.github.io/)
+
+- 👉 Interested in building amazing frontend websites.
 
 - 💬 Ask me about **HTML, CSS, JS,TYPESCRIPT, REACT,REDUX**
 
