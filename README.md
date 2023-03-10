@@ -13,7 +13,7 @@
 
 - 👉 Interested in building amazing frontend websites.
 
-- 💬 Ask me about **HTML, CSS, JS,TYPESCRIPT, REACT,REDUX**
+- 💬 Ask me about **HTML, CSS, JS, REACT,REDUX,NODE JS,EXPRESS, MONGO DB**
 
 - 📫 How to reach me **swatisucharitamohanty1@gmail.com**
 
