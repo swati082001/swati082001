@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **REDUX**
+- 🌱 I’m currently learning **MONGO DB**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://swati082001.github.io/)
 
